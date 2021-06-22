@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "1b2343b1-ee3f-4425-8288-d91b4d2c6d15",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 142,
+  "height": 106,
+  "platformSettings": {},
+  "subMetas": {
+    "pngfind.com-green-checkmark-png-1727637": {
+      "ver": "1.0.4",
+      "uuid": "25bdf90b-a8ab-4db9-88f7-4352706de827",
+      "rawTextureUuid": "1b2343b1-ee3f-4425-8288-d91b4d2c6d15",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1,
+      "offsetY": -2,
+      "trimX": 20,
+      "trimY": 13,
+      "width": 104,
+      "height": 84,
+      "rawWidth": 142,
+      "rawHeight": 106,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
